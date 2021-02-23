@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Andrés Smerkin and I work as a full stack lead engineer at [Riess Group](https://riessgroup.com)
+
+- [My Personal Page](https://andressmerkin.com)
+
 <!--
 **asmerkin/asmerkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
